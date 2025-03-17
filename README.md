@@ -6,16 +6,13 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-Include the Problem Statement and Dataset.
+To classify the given images into it's category
 
 ## Neural Network Model
 
 Include the neural network model diagram.
 
 ## DESIGN STEPS
-
-### STEP 1:
-Write your own steps
 ### STEP 1: Problem Statement
 Define the objective of classifying handwritten digits (0-9) using a Convolutional Neural Network (CNN).
 
@@ -31,10 +28,6 @@ Train the model using a suitable loss function (CrossEntropyLoss) and optimizer 
 Test the model on unseen data, compute accuracy, and analyze results using a confusion matrix and classification report.
 ### STEP 7: Model Deployment & Visualization
 Save the trained model, visualize predictions, and integrate it into an application if needed.
-
-### STEP 2:
-
-### STEP 3:
 
 
 ## PROGRAM
