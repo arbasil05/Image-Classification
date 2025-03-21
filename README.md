@@ -71,7 +71,7 @@ optimizer =optim.Adam(model.parameters(),lr=0.001)
 def train_model(model, train_loader, num_epochs=3):
   for epoch in range(num_epochs):
         model.train()
-        running_loss = 0.0+
+        running_loss = 0.0
         for images, labels in train_loader:
             optimizer.zero_grad()
             outputs = model(images)
@@ -104,7 +104,7 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### New Sample Data Prediction
 
-![image](https://github.com/user-attachments/assets/923067c3-983a-4a9e-8d07-15828796d13d)
+![image](https://github.com/user-attachments/assets/56c21bcf-a4ee-4188-9f1c-55572568679b)
 
 
 ## RESULT
