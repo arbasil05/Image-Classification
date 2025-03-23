@@ -6,7 +6,7 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-To classify the given images into it's category
+The objective of this project is to classify a set of given images into their respective categories. The images used for classification are sourced from the MNIST Fashion dataset, which comprises 10 distinct classes. The model will leverage deep learning techniques to accurately recognize patterns and categorize the images accordingly.
 
 ## Neural Network Model
 
